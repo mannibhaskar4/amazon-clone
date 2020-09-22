@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For Debugging Refer to end of this file and give commands in sequence
 
 ## Available Scripts
 
@@ -66,3 +67,23 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+<----------------------------------------------------------------------------------------------------------------------------->
+
+Please refer to these commands for future
+
+<----------------------------------------------------------------------------------------------------------------------------->
+
+## rm -r node_modules
+
+## npm install
+
+## sudo npm install -g firebase-tools
+
+## npm install @material-ui/core
+
+## npm install @material-ui/icons
+
+## npm install react-router-dom
+
+## npm i react-currency-format
